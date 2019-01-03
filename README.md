@@ -1,2 +1,2 @@
-# typescript-start
-Play project for learning and practicing TypeScript
+# typescript-fundamentals
+Play project for practicing TypeScript and teachin TypeScript

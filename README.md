@@ -1,2 +1,2 @@
 # TypeScript-fundamentals
-Play project for practicing TypeScript and teachin TypeScript
+Play project for practicing and teaching TypeScript
